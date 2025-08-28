@@ -18,8 +18,7 @@ Estas são habilidades indispensáveis que são obrigatóeria em qualquer área 
 
 **Se interessou por estes dados acima ?**
 
-Segue abaixo o link do PDF com a Análise Completa de nossa pesquisa de campo, incluindo faixa salarial, vagas em aberto e diversas outras informações.
-
+Segue PDF anexado com a Análise Completa de nossa pesquisa de campo, incluindo faixa salarial, vagas em aberto e diversas outras informações.
 
 
 #DesenvolvimentoWeb #MercadoDeTI #CarreiraEmTecnologia #HardSkills #SoftSkills #AnaliseDeDados"
